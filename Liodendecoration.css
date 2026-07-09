@@ -32,7 +32,7 @@ border-left: none !important;
 }
 
 .navbar {
-background: #8a8ca4 !important;
+background: #aca4b8 !important;
 border: 1px solid #696671 !important;
 border-bottom: none !important;
 border-top: none !important;
@@ -42,9 +42,9 @@ font-family: 'Century Gothic';
 }
 
 .navbar li a {
-color: #9e7a86 !important;
+color: #473649 !important;
 }
 
 .navbar li a:hover {
-background: #7e809b !important;
+background: #9d93ac !important;
 }
