@@ -18,15 +18,15 @@ min-width: 600px !important;
 }
 
 .col-md-9.col-xs-12 {
-background: #ceabaa !important;
-border: 4px double #91AFC2 !important;
+background: #ddbdbc !important;
+border: 4px double #696671 !important;
 border-top: none !important;
 border-right: none !important;
 border-bottom :none !important;
 }
 
 div.container.main {
-background: #ceabaa !important;
-border: 4px double #91AFC2 !important;
+background: #ddbdbc !important;
+border: 4px double #696671 !important;
 border-left: none !important;
 }
