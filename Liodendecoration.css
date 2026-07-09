@@ -3,7 +3,7 @@ body {
 background: url('https://i.pinimg.com/736x/f6/54/fe/f654fe51c2910e82200da96575f6096a.jpg') center center fixed !important;
 background-repeat: no-repeat;
 background-size: 100%;
-color: #9e7a86 !important;
+color: #171e3a !important;
 }
 }
 
@@ -18,7 +18,7 @@ min-width: 600px !important;
 }
 
 .col-md-9.col-xs-12 {
-background: #C3DAE8 !important;
+background: #ceabaa !important;
 border: 4px double #91AFC2 !important;
 border-top: none !important;
 border-right: none !important;
@@ -26,7 +26,7 @@ border-bottom :none !important;
 }
 
 div.container.main {
-background: #C3DAE8 !important;
+background: #ceabaa !important;
 border: 4px double #91AFC2 !important;
 border-left: none !important;
 }
