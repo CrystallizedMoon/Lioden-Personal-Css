@@ -40,3 +40,11 @@ border-right: none !important;
 box-shadow: none !important;
 font-family: 'Century Gothic';
 }
+
+.navbar li a {
+color: #9e7a86 !important;
+}
+
+.navbar li a:hover {
+background: #7e809b !important;
+}
