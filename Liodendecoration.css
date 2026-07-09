@@ -48,3 +48,9 @@ color: #473649 !important;
 .navbar li a:hover {
 background: #9e7581 !important;
 }
+
+.breadcrumb {
+background: ##686472 !important;
+color: #a4a5b8 !important;
+border: 1px solid #696671 !important;
+}
