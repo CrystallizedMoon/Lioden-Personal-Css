@@ -32,7 +32,7 @@ border-left: none !important;
 }
 
 .navbar {
-background: #aca4b8 !important;
+background: #a7818c !important;
 border: 1px solid #696671 !important;
 border-bottom: none !important;
 border-top: none !important;
@@ -46,5 +46,5 @@ color: #473649 !important;
 }
 
 .navbar li a:hover {
-background: #9d93ac !important;
+background: #9e7581 !important;
 }
