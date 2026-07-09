@@ -30,3 +30,13 @@ background: #ddbdbc !important;
 border: 4px double #696671 !important;
 border-left: none !important;
 }
+
+.navbar {
+background: #8a8ca4 !important;
+border: 1px solid #696671 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Century Gothic';
+}
