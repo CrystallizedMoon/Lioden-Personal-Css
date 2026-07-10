@@ -36,7 +36,7 @@ background: #9e7581 !important;
 }
 
 .breadcrumb {
-background: ##686472 !important;
+background: #686472 !important;
 color: #a4a5b8 !important;
 border: 1px solid #696671 !important;
 }
@@ -56,13 +56,13 @@ border-bottom: 4px solid #696671 !important;
 }
 
 .sidebar {
-background: #a7818c !important;
+background: #c4a1a5 !important;
 color: #473649 !important;
 border: none !important;
 }
 
 .panel {
-background: #c4a1a5 !important;
+background: #a7818c !important;
 border: #473649 !important;
 box-shadow: none !important;
 }
@@ -104,7 +104,7 @@ font-family: 'Century Gothic' !important;
 }
 
 .left {
-background: #0F2F42 !important;
+background: #686472 !important;
 color: #473649 !important;
 border: 1px solid #91AFC2 !important;
 text-align: center !important;
@@ -112,7 +112,7 @@ font-family: 'Century Gothic' !important;
 }
 
 td {
-background: #c4a1a5 !important;
+background: #ead4d3 !important;
 color: #473649 !important;
 border: none !important;
 }
