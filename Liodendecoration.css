@@ -62,21 +62,21 @@ border: 1px solid #91AFC2 !important;
 }
 
 .topbar {
-background: #686472 !important;
-color: #a4a5b8 !important;
+background: #8d7686 !important;
+color: #473649 !important;
 border: 1px solid #696671 !important;
 border-top: none !important;
 border-bottom: 4px solid #696671 !important;
 }
 
 .sidebar {
-background: #a7818c !important;
+background: #c4a1a5 !important;
 color: #473649 !important;
 border: none !important;
 }
 
 .panel {
-background: #ecd0b2 !important;
-border: #eccaa5 !important;
+background: #bcdbdd !important;
+border: #91AFC2 !important;
 box-shadow: none !important;
 }
