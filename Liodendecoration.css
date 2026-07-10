@@ -120,3 +120,15 @@ border: none !important;
 .right_cub {
 background: #0F2F42 !important;
 }
+
+a:link {
+color: #FFFFFF !important;
+}
+
+a:visited {
+color: #FFFFFF !important;
+}
+
+a:hover {
+color: #E0E0E0 !important;
+}
