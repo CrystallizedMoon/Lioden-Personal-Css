@@ -54,3 +54,29 @@ background: ##686472 !important;
 color: #a4a5b8 !important;
 border: 1px solid #696671 !important;
 }
+
+.feature {
+background: #b8d9d9 !important;
+color: #23464d !important;
+border: 1px solid #91AFC2 !important;
+}
+
+.topbar {
+background: #686472 !important;
+color: #a4a5b8 !important;
+border: 1px solid #696671 !important;
+border-top: none !important;
+border-bottom: 4px solid #696671 !important;
+}
+
+.sidebar {
+background: #a7818c !important;
+color: #473649 !important;
+border: none !important;
+}
+
+.panel {
+background: #ecd0b2 !important;
+border: #eccaa5 !important;
+box-shadow: none !important;
+}
