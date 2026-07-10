@@ -1,6 +1,6 @@
 @media (min-width:768px) {
 body {
-background: url('https://i.pinimg.com/736x/f6/54/fe/f654fe51c2910e82200da96575f6096a.jpg') center center fixed !important;
+background: url('https://i.pinimg.com/736x/49/0a/4e/490a4e385186bcac2de15eafc117a6c4.jpg') center center fixed !important;
 background-repeat: no-repeat;
 background-size: 100%;
 color: #171e3a !important;
@@ -9,7 +9,7 @@ color: #171e3a !important;
 
 @media (max-width: 768px) {
 body {
-background: url('https://i.pinimg.com/736x/f6/54/fe/f654fe51c2910e82200da96575f6096a.jpg') center center fixed !important;
+background: url('https://i.pinimg.com/736x/49/0a/4e/490a4e385186bcac2de15eafc117a6c4.jpg') center center fixed !important;
 background-repeat: no-repeat;
 background-size: 100%;
 width: auto !important;
@@ -70,7 +70,7 @@ border-bottom: 4px solid #696671 !important;
 }
 
 .sidebar {
-background: #c4a1a5 !important;
+background: #a7818c !important;
 color: #473649 !important;
 border: none !important;
 }
