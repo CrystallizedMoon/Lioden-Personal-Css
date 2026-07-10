@@ -1,20 +1,6 @@
-@media (min-width:768px) {
 body {
-background: url('https://i.pinimg.com/736x/49/0a/4e/490a4e385186bcac2de15eafc117a6c4.jpg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-color: #171e3a !important;
-}
-}
-
-@media (max-width: 768px) {
-body {
-background: url('https://i.pinimg.com/736x/49/0a/4e/490a4e385186bcac2de15eafc117a6c4.jpg') center center fixed !important;
-background-repeat: no-repeat;
-background-size: 100%;
-width: auto !important;
-min-width: 600px !important;
-}
+background: url('https://i.pinimg.com/736x/49/0a/4e/490a4e385186bcac2de15eafc117a6c4.jpg') no-repeat center center fixed;
+background-size: cover;
 }
 
 .col-md-9.col-xs-12 {
