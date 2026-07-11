@@ -5,7 +5,7 @@ background-size: cover;
 
 .col-md-9.col-xs-12 {
 background: #ddbdbc !important;
-border: 4px double #696671 !important;
+border: 4px double #745a73 !important;
 border-top: none !important;
 border-right: none !important;
 border-bottom :none !important;
@@ -13,13 +13,13 @@ border-bottom :none !important;
 
 div.container.main {
 background: #ddbdbc !important;
-border: 4px double #696671 !important;
+border: 4px double #745a73 !important;
 border-left: none !important;
 }
 
 .navbar {
 background: #a7818c !important;
-border: 1px solid #696671 !important;
+border: 1px solid #745a73 !important;
 border-bottom: none !important;
 border-top: none !important;
 border-right: none !important;
@@ -38,21 +38,21 @@ background: #9e7581 !important;
 .breadcrumb {
 background: #8d7686 !important;
 color: #a4a5b8 !important;
-border: 1px solid #696671 !important;
+border: 1px solid #745a73 !important;
 }
 
 .feature {
 background: #b8d9d9 !important;
 color: #23464d !important;
-border: 1px solid #91AFC2 !important;
+border: 1px solid #745a73 !important;
 }
 
 .topbar {
 background: #8d7686 !important;
 color: #473649 !important;
-border: 1px solid #696671 !important;
+border: 1px solid #745a73 !important;
 border-top: none !important;
-border-bottom: 4px solid #696671 !important;
+border-bottom: 4px solid #745a73 !important;
 }
 
 .sidebar {
@@ -63,7 +63,7 @@ border: none !important;
 
 .panel {
 background: #a7818c !important;
-border: #473649 !important;
+border: #745a73 !important;
 box-shadow: none !important;
 }
 
